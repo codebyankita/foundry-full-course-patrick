@@ -70,8 +70,7 @@ To follow along with the projects in this repository, you’ll need the followin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/codebyankita/foundry-full-course-patrick.git
    ```
 
 2. Install Foundry (if not already installed):
