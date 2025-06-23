@@ -5,6 +5,7 @@
 
 This repository contains all the code, resources, and projects for the **Blockchain Developer, Smart Contract, & Solidity Career Path - Powered By AI - Beginner to Expert Course | Foundry Edition 2024** offered by [Cyfrin Updraft](https://www.cyfrin.io/). The course takes you from beginner to expert in smart contract development using **Solidity**, **Foundry**, and other cutting-edge tools, with a focus on hands-on projects and real-world blockchain applications.
 
+[Cyfrin Updraft](https://github.com/Cyfrin/foundry-full-course-cu)
 This repo includes projects for each section of the course, covering everything from basic Solidity programming to advanced topics like DeFi, NFTs, cross-chain applications, and smart contract security.
 
 ---
